@@ -1,23 +1,30 @@
-# ∞ STUDiON — ArtViSiON PRODUCTion · DESiGN
+# ∞ ArtViSiON — Production · Design (Indore, India)
 
-Luxury single-page portfolio website — 102 A-to-Z services + 240 sector scenes in 7 RGB/CMYK colour blocks, professional voiceover tour, soft ambient music, Indian-instrumental + nature intro soundscape, typewriter captions, A-to-Z progress scale with car, turnkey project details. Fully text-edition (no external images).
+Single-file luxury studio website — 102 A-to-Z services · 24 industries · 240 sector scenes.
+The Luxury of One Brand Voice. Design to Execution.
 
 ## Deploy on GitHub Pages (2 minutes)
+1. Create a new repository (e.g. `artvision-studio`).
+2. Upload **`index.html`** and the **`audio/`** folder to the repository root
+   (or put both inside a `/docs` folder).
+3. Repo → **Settings → Pages → Build and deployment → Source: Deploy from a branch**
+   → branch `main`, folder `/ (root)` (or `/docs`) → Save.
+4. Your site is live at `https://<username>.github.io/<repo>/`.
 
-1. Upload **index.html** and the **audio/** folder (both together) to your repository **root** — or into a `/docs` folder.
-2. Repo → **Settings → Pages** → Source: *Deploy from a branch* → Branch: `main` → folder `/ (root)` (or `/docs`) → **Save**.
-3. Wait ~1 minute, open `https://<username>.github.io/<repo>/` and press **▶ LET'S CREATiON**.
-
-> ⚠️ `audio/` must sit next to `index.html` — the 10 voiceover MP3s are the only external files. Fonts, owl mascot, favicon and logo are embedded inside the HTML (base64).
+> `audio/` must sit next to `index.html` — the guided tour streams the 10 narration clips
+> (`audio/s01.mp3` … `audio/s10.mp3`) from there.
 
 ## Good to know
-
-- Browsers block autoplay without one tap — intro sound starts on first touch/click/keypress anywhere ("RELAX TOUCH" hint appears if needed).
-- Guided tour: 10 voiceover stops, typewriter captions, soft typing sounds; music auto-ducks under the voice. Scroll/touch anytime to take over.
-- 🔊 bottom-left toggle mutes EVERYTHING (intro soundscape, music, voiceover, typing clicks) — works on iOS too.
-- Auto performance mode: slow devices, Save-Data and prefers-reduced-motion automatically switch off heavy effects (bubbles, parallax, sheen) for smooth surfing.
-- Works on all devices & OS: Android, iOS, Windows, macOS, Linux — Chrome, Safari, Firefox, Edge, Samsung/UC browsers.
+- **Intro page:** press START (or just tap — "RELAX TOUCH") to enter. Browsers block
+  zero-touch audio, so one interaction is required; music + narration start after it.
+- **🏠 Home icon** in the nav returns to the LET'S CREATiON starting page at any time.
+- **🔊 Mute toggle** (top-right) silences everything — music, intro soundscape, narration, clicks.
+- **Guided tour:** 10-stop audio tour with typewriter captions; scroll/touch/keys or SKIP exits it.
+- **Works everywhere:** iOS · Android · Windows · macOS · Linux — Chrome, Safari, Firefox, Edge,
+  Samsung Internet. Safe-area support for notched phones, reduced-motion & data-saver friendly,
+  automatic light-effects mode on slow devices.
+- **Performance:** everything (fonts, logo, owl, facade drawing) is embedded in the single HTML
+  file; only the 10 audio clips load on demand. No build step, no dependencies, no tracking.
 
 ## Contact
-
 rjsarkar@icloud.com · +91 90090 01551 · Indore, Madhya Pradesh, India
