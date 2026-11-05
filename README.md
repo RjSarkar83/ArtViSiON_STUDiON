@@ -8,6 +8,8 @@ production design, branding, advertising and turnkey execution from **Indore, Ma
   no framework, no build step, no external requests — open the file and it works)
 - `audio/` — 10 guided-tour narration clips (s01–s10.webm) in Opus (VOIP 20 kbps mono, WebM container) — the audio counterpart of the AVIF images
 - `assets/proof-before|day|night.avif` — 1440×810 facade renders for the comparison sliders, AV1-compressed (no JPEG duplicates)
+- `assets/icon.avif` — infinity-owl LogoMark on a transparent ground with white eyes (1.8 KB): favicon + nav/footer home icon
+- `assets/rj.avif` — founder Rj Sarkar photo-to-logo transformation as a 40-frame animated AVIF (50 KB vs 378 KB GIF); first frame is the portrait, so static fallbacks still show the face
 
 ## Typography (premium luxury system, fully embedded)
 - **Playfair Display** (variable 400–900, roman + italic) — all headings, hero, plates
@@ -45,7 +47,10 @@ production design, branding, advertising and turnkey execution from **Indore, Ma
 - Brand palette in every color box site-wide: #A01320 CRIMSON RED · #0B6B3A EMERALD
   GREEN · #0B4EA2 ROYAL BLUE · #05798B DEEP CYAN · #8D125F MAGENTA WINE · #F2B000
   MARIGOLD · #000000 ONYX KEY
-- SECTION 10 · INVESTMENT: tabbed 🎨 Design Rates + 🏭 Production Rates (/sq.ft)
+- SECTION 10 · INVESTMENT: tabbed 🎨 Design Rates + 🏭 Production Rates (/sq.ft) +
+  📱 Social Media Monthly Plans (PRESENCE / GROWTH / DOMINATE retainers covering
+  every social design type plus paid-boost / Meta marketing management, add-ons
+  and no-lock-in terms; no YouTube deliverables)
 - Enquiry — "Let's Create Your Brand": 103-service selector, budget slabs, LIVE WhatsApp
   message preview, validation, one-tap send to +91 90090 01551
 - Free Tools + 🦉 brand-health quiz · Drive-the-page car (1:1 grab-drag, smooth
