@@ -24,14 +24,8 @@
 <meta property="og:description" content="360° end-to-end production design: 102 A-to-Z services, 24 industries, 240 sector scenes. Design to execution, pan-India.">
 <meta property="og:url" content="https://rjsarkar83.github.io/ArtViSiON_STUDiON/">
 <meta property="og:locale" content="en_IN">
-<meta property="og:image" content="https://rjsarkar83.github.io/ArtViSiON_STUDiON/assets/og.jpg">
-<meta property="og:image:width" content="1200">
-<meta property="og:image:height" content="630">
-<meta property="og:image:alt" content="ArtViSiON STUDIO Indore — A-to-Z Advertising, Branding & 3D Signage Production">
-<meta name="twitter:card" content="summary_large_image">
 <meta name="twitter:title" content="∞ ArtViSiON — Production · Design, Indore">
 <meta name="twitter:description" content="A-to-Z advertising, branding, 3D signage, ACP facade, print & fabrication. Design to execution.">
-<meta name="twitter:image" content="https://rjsarkar83.github.io/ArtViSiON_STUDiON/assets/og.jpg">
 <meta http-equiv="Content-Security-Policy" content="default-src 'self'; img-src 'self' data:; media-src 'self'; font-src 'self' data:; style-src 'unsafe-inline'; script-src 'unsafe-inline'; connect-src 'none'; base-uri 'self'; form-action 'self'">
 <meta name="robots" content="index,follow,max-snippet:-1,max-image-preview:large">
 
@@ -1191,15 +1185,15 @@ nav a.on{color:var(--gd)}
 <div class="fphead"><b>VISUAL PROOF</b><span>DRAG THE GOLD HANDLE · PHOTOREAL RENDERS OF THE FACADE DRAWING ABOVE · SERVED AS AVIF</span></div>
 <div class="cmpgrid">
 <figure class="cmp" style="--p:50%">
-<picture><source type="image/avif" srcset="assets/proof-day.avif"><img src="assets/proof-day.jpg" alt="Branded ArtViSiON showroom facade after signage: logo lockup on the sign band, rolling shutter half-raised, blank standee panel at left, daylight" width="1440" height="810" loading="lazy" decoding="async"></picture>
-<div class="top"><picture><source type="image/avif" srcset="assets/proof-before.avif"><img src="assets/proof-before.jpg" alt="Same street and shopfront before branding: weathered concrete fascia, closed rusty shutter, no standee, overcast daylight" width="1440" height="810" loading="lazy" decoding="async"></picture></div>
+<img src="assets/proof-day.avif" alt="Branded ArtViSiON showroom facade after signage: logo lockup on the sign band, rolling shutter half-raised, blank standee panel at left, daylight" width="1440" height="810" loading="lazy" decoding="async">
+<div class="top"><img src="assets/proof-before.avif" alt="Same street and shopfront before branding: weathered concrete fascia, closed rusty shutter, no standee, overcast daylight" width="1440" height="810" loading="lazy" decoding="async"></div>
 <b class="lab l">BEFORE</b><b class="lab r">AFTER</b>
 <span class="hline" aria-hidden="true"></span><span class="grip" aria-hidden="true">⇔</span>
 <input type="range" min="0" max="100" value="50" aria-label="Before and after comparison slider">
 </figure>
 <figure class="cmp" style="--p:50%">
-<picture><source type="image/avif" srcset="assets/proof-night.avif"><img src="assets/proof-night.jpg" alt="Branded ArtViSiON showroom facade at blue hour: front-lit logo lockup on the sign band, interior glowing through the half-raised shutter" width="1440" height="810" loading="lazy" decoding="async"></picture>
-<div class="top"><picture><source type="image/avif" srcset="assets/proof-day.avif"><img src="assets/proof-day.jpg" alt="Same branded showroom facade in daylight" width="1440" height="810" loading="lazy" decoding="async"></picture></div>
+<img src="assets/proof-night.avif" alt="Branded ArtViSiON showroom facade at blue hour: front-lit logo lockup on the sign band, interior glowing through the half-raised shutter" width="1440" height="810" loading="lazy" decoding="async">
+<div class="top"><img src="assets/proof-day.avif" alt="Same branded showroom facade in daylight" width="1440" height="810" loading="lazy" decoding="async"></div>
 <b class="lab l">DAY</b><b class="lab r">NIGHT</b>
 <span class="hline" aria-hidden="true"></span><span class="grip" aria-hidden="true">⇔</span>
 <input type="range" min="0" max="100" value="50" aria-label="Day and night comparison slider">
@@ -1563,14 +1557,14 @@ const cHtml=document.documentElement;
 function cKX(){return MAXS>0?MAXS/Math.max(320,innerWidth):1}
 function cFast(){cHtml.style.scrollBehavior='auto'}
 function cSlow(){cHtml.style.scrollBehavior=''}
-function cStop(){cCur=scrollY;cTgt=cCur;if(!cdg)cSlow()}
+function cStop(){cCur=scrollY;cTgt=cCur}
 function cStep(){const d=cTgt-cCur;cCur+=d*.18;
  if(Math.abs(d)>.4){scrollTo(0,cCur);cRaf=requestAnimationFrame(cStep)}
  else{cCur=cTgt;scrollTo(0,cCur);cRaf=0;if(!cdg)cSlow()}}
 function cGo(t){cFast();cTgt=Math.max(0,Math.min(MAXS,t));if(!cRaf)cRaf=requestAnimationFrame(cStep)}
 addEventListener('wheel',()=>{if(!cdg&&cRaf)cStop()},{passive:true});
 addEventListener('touchstart',e=>{if(!cdg&&cRaf&&!carEl.contains(e.target))cStop()},{passive:true});
-document.addEventListener('click',e=>{if(cdg)return;const t=e.target;if(t&&t.closest&&t.closest('a,button,[role="button"],input,select,label,.chip,.pcard'))cStop()},{capture:true});
+document.addEventListener('click',e=>{if(cdg)return;const t=e.target;if(t&&t.closest&&t.closest('a,button,[role="button"],input,select,label,.chip,.pcard')){cStop();cSlow()}},{capture:true});
 carEl.addEventListener('pointerdown',e=>{cdg=1;cFast();cx0=e.clientX;cy0=e.clientY;cs0=scrollY;cCur=cs0;cTgt=cs0;cVx=0;cLX=e.clientX;cLT=performance.now();
  if(cRaf){cancelAnimationFrame(cRaf);cRaf=0}
  try{carEl.setPointerCapture(e.pointerId)}catch(_){}
@@ -1682,16 +1676,16 @@ document.body.classList.add('locked');
 const intro=document.getElementById('intro'),tourcap=document.getElementById('tourcap'),mtog=document.getElementById('mtog');
 let AC=null,MG=null,muted=0,tourOn=0,curAu=null,twT=null,subT=[],tT=null;
 const STOPS=[
-{sels:[null],kick:'WELCOME',text:'\u221E ArtViSiON \u2014 branding, design & turnkey production studio, Indore. The website will now play itself. Sit back and relax, or scroll anytime to take over.',au:'audio/s01.mp3'},
-{sels:['#az'],kick:'SECTION 01 \u00B7 CRIMSON RED',text:'The grand A-to-Z begins \u2014 letters A to D, with all 240 sector scenes merged inside. Filter everything with the 24 industry chips.',au:'audio/s02.mp3'},
-{sels:['#sec2'],kick:'SECTION 02 \u00B7 EMERALD GREEN',text:'Letters E to H \u2014 events, exhibitions, fa\u00E7ades, glow signs & grand hoardings. Each letter is a full wall of services.',au:'audio/s03.mp3'},
-{sels:['#sec3'],kick:'SECTION 03 \u00B7 ROYAL BLUE',text:'Letters I to L \u2014 identity systems, interactive kiosks, journals & editorial layouts, and LED light letters.',au:'audio/s04.mp3'},
-{sels:['#sec4'],kick:'SECTION 04 \u00B7 DEEP CYAN',text:'Letters M to P \u2014 menus, murals, nameplates, one-way vision glass prints & packaging.',au:'audio/s05.mp3'},
-{sels:['#sec5'],kick:'SECTION 05 \u00B7 MAGENTA WINE',text:'Letters Q to T \u2014 QR smart-tag systems, retail kits, safety signage & truss art.',au:'audio/s06.mp3'},
-{sels:['#sec6'],kick:'SECTION 06 \u00B7 MARIGOLD',text:'Letters U to W \u2014 uniforms, UV flatbed prints, vinyl art, vehicle wraps & wall murals.',au:'audio/s07.mp3'},
-{sels:['#sec7'],kick:'SECTION 07 \u00B7 ONYX KEY',text:'Letters X to Z \u2014 XL hoardings, festive d\u00E9cor, yard signage & zonal wayfinding masterplans.',au:'audio/s08.mp3'},
-{sels:['#work','#proc'],kick:'SECTIONS 08\u201309 \u00B7 TURNKEY + METHOD',text:'Turnkey projects \u2014 survey, design, production, install & handover under one contract \u2014 following our five-step method: discover, concept, design, produce, execute.',au:'audio/s09.mp3'},
-{sels:['#price','#prodprice','#faq','#contact'],kick:'SECTIONS 10\u201312 \u00B7 PRICING \u00B7 FAQ \u00B7 CONTACT',text:'Transparent design pricing, per-sq.ft production rates and quick answers \u2014 then contact: rjsarkar@icloud.com, +91 90090 01551, Indore. Thank you for watching.',au:'audio/s10.mp3'}
+{sels:[null],kick:'WELCOME',text:'\u221E ArtViSiON \u2014 branding, design & turnkey production studio, Indore. The website will now play itself. Sit back and relax, or scroll anytime to take over.',au:'audio/s01.webm'},
+{sels:['#az'],kick:'SECTION 01 \u00B7 CRIMSON RED',text:'The grand A-to-Z begins \u2014 letters A to D, with all 240 sector scenes merged inside. Filter everything with the 24 industry chips.',au:'audio/s02.webm'},
+{sels:['#sec2'],kick:'SECTION 02 \u00B7 EMERALD GREEN',text:'Letters E to H \u2014 events, exhibitions, fa\u00E7ades, glow signs & grand hoardings. Each letter is a full wall of services.',au:'audio/s03.webm'},
+{sels:['#sec3'],kick:'SECTION 03 \u00B7 ROYAL BLUE',text:'Letters I to L \u2014 identity systems, interactive kiosks, journals & editorial layouts, and LED light letters.',au:'audio/s04.webm'},
+{sels:['#sec4'],kick:'SECTION 04 \u00B7 DEEP CYAN',text:'Letters M to P \u2014 menus, murals, nameplates, one-way vision glass prints & packaging.',au:'audio/s05.webm'},
+{sels:['#sec5'],kick:'SECTION 05 \u00B7 MAGENTA WINE',text:'Letters Q to T \u2014 QR smart-tag systems, retail kits, safety signage & truss art.',au:'audio/s06.webm'},
+{sels:['#sec6'],kick:'SECTION 06 \u00B7 MARIGOLD',text:'Letters U to W \u2014 uniforms, UV flatbed prints, vinyl art, vehicle wraps & wall murals.',au:'audio/s07.webm'},
+{sels:['#sec7'],kick:'SECTION 07 \u00B7 ONYX KEY',text:'Letters X to Z \u2014 XL hoardings, festive d\u00E9cor, yard signage & zonal wayfinding masterplans.',au:'audio/s08.webm'},
+{sels:['#work','#proc'],kick:'SECTIONS 08\u201309 \u00B7 TURNKEY + METHOD',text:'Turnkey projects \u2014 survey, design, production, install & handover under one contract \u2014 following our five-step method: discover, concept, design, produce, execute.',au:'audio/s09.webm'},
+{sels:['#price','#prodprice','#faq','#contact'],kick:'SECTIONS 10\u201312 \u00B7 PRICING \u00B7 FAQ \u00B7 CONTACT',text:'Transparent design pricing, per-sq.ft production rates and quick answers \u2014 then contact: rjsarkar@icloud.com, +91 90090 01551, Indore. Thank you for watching.',au:'audio/s10.webm'}
 ];
 const AUS=STOPS.map(s=>{const a=new Audio(s.au);a.preload='none';return a});
 function ambient(){
@@ -1747,7 +1741,7 @@ function tgTarget(sel){const el=sel&&document.querySelector(sel);if(!el)return n
  const r=el.getBoundingClientRect(),top=r.top+scrollY-64,h=r.height;
  const end=top+h-innerHeight+40;
  return end>top+40?end:top+Math.max(60,Math.min(h*.35,innerHeight*.35));}
-function tgGo(to,dur){tgFrom=scrollY;tgTo=Math.max(0,Math.min(MAXS,to));tgT0=performance.now();tgDur=Math.max(600,dur);if(!tgRaf)tgRaf=requestAnimationFrame(tgStep)}
+function tgGo(to,dur){cFast();tgFrom=scrollY;tgTo=Math.max(0,Math.min(MAXS,to));tgT0=performance.now();tgDur=Math.max(600,dur);if(!tgRaf)tgRaf=requestAnimationFrame(tgStep)}
 function tgStep(){if(!tourOn){tgRaf=0;return}
  const now=performance.now();
  if(now<tgHold){tgT0+=16.7;tgRaf=requestAnimationFrame(tgStep);return}

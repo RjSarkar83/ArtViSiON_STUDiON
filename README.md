@@ -6,9 +6,8 @@ production design, branding, advertising and turnkey execution from **Indore, Ma
 ## What is inside
 - `index.html` — the complete site (fonts, owl emblem and ambient audio engine embedded;
   no framework, no build step, no external requests — open the file and it works)
-- `audio/` — 10 ambient scene soundscapes (s01–s10.mp3) used by the guided studio tour
-- `assets/og.jpg` — original 1200×630 share card (gold owl emblem + Playfair/Montserrat wordmark on vantablack), referenced by og:image / twitter:image
-- `assets/proof-before|day|night.avif` (+ `.jpg` fallbacks) — 1600×900 facade renders for the comparison sliders, AV1-compressed for fast load
+- `audio/` — 10 guided-tour narration clips (s01–s10.webm) in Opus (VOIP 20 kbps mono, WebM container) — the audio counterpart of the AVIF images
+- `assets/proof-before|day|night.avif` — 1440×810 facade renders for the comparison sliders, AV1-compressed (no JPEG duplicates)
 
 ## Typography (premium luxury system, fully embedded)
 - **Playfair Display** (variable 400–900, roman + italic) — all headings, hero, plates
@@ -42,8 +41,7 @@ production design, branding, advertising and turnkey execution from **Indore, Ma
   counter with Corian top + LED kick, 16'x7.5' ACP backwall with gold LED lip, ACP sheet
   racks, coloured acrylic panels, wood/MDF boards, 10'x5' in-shop branding vinyl,
   8'x5' display rack with product boxes, 5.5' mannequin, 10'x6' LED product shelves
-  and SS kickers on display; served as AVIF
-  (JPEG fallback), lazy-loaded
+  and SS kickers on display; served as AVIF, lazy-loaded
 - Brand palette in every color box site-wide: #A01320 CRIMSON RED · #0B6B3A EMERALD
   GREEN · #0B4EA2 ROYAL BLUE · #05798B DEEP CYAN · #8D125F MAGENTA WINE · #F2B000
   MARIGOLD · #000000 ONYX KEY
@@ -57,7 +55,7 @@ production design, branding, advertising and turnkey execution from **Indore, Ma
 
 ## Deploy on GitHub Pages
 1. Create a repository (e.g. `ArtViSiON_STUDiON`)
-2. Upload `index.html`, `README.md`, `audio/` AND `assets/` (og.jpg + proof-*.avif/.jpg) to the `rj` branch (repo default)
+2. Upload `index.html`, `README.md`, `audio/` AND `assets/` (proof-*.avif only) to the `rj` branch (repo default)
 3. Settings → Pages → Source: `main` / root → Save
 4. Site goes live at `https://<username>.github.io/<repo>/`
 
