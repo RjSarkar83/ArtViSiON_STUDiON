@@ -22,8 +22,8 @@ production design, branding, advertising and turnkey execution from **Indore, Ma
 - THE GRAND A-TO-Z: announced once in Section 01; sections 02–07 continue as clean
   color-block dividers — 102 services + 240 sector scenes, zero repeated headings
 - Four golden line-art engineering plates: BRAND GUIDE — MINIMAL · RATIO FILE ·
-  FACADE ENGINEERING DRAWING (50' frontage BOQ) · FLOOR PLAN — SAME SHOWROOM
-  (50' × 30', 19 numbered callouts + full legend)
+  FACADE ENGINEERING DRAWING (50' frontage BOQ) · FLOOR PLAN (same 50' × 30' showroom,
+  19 numbered callouts + full legend)
 - SECTION 10 · INVESTMENT: tabbed 🎨 Design Rates + 🏭 Production Rates (/sq.ft)
 - Enquiry — "Let's Create Your Brand": 103-service selector, budget slabs, LIVE WhatsApp
   message preview, validation, one-tap send to +91 90090 01551
