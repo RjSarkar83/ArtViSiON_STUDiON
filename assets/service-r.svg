@@ -1,0 +1,171 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1920" height="1080" viewBox="0 0 1920 1080" role="img" aria-labelledby="title description">
+<title id="title">R for Resume and CV Design</title>
+<desc id="description">A 6.5-second looping animation. A bold R reveals a resume page with a profile, experience and skills, then introduces resume and CV design through illustrative resume, CV and layout examples.</desc>
+<metadata>1920 by 1080; 16:9; 6.5-second loop; bold R and blue, charcoal, cream and red palette adapted from 18_R_rebranding.png; no external assets. Resume and CV examples are generic visual concepts.</metadata>
+<defs>
+<style><![CDATA[
+@font-face { font-family: ResumeSans; src: url(data:font/woff;base64,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) format('woff'); font-style: normal; font-weight: 700; }
+text { font-family: ResumeSans, Arial, sans-serif; }
+]]></style>
+</defs>
+<rect id="background" width="1920" height="1080" fill="#24499A"/>
+<g id="animation" opacity="0">
+  <animate attributeName="opacity" values="0;1;1;0" keyTimes="0;0.04;0.945;1" dur="6.5s" calcMode="linear" repeatCount="indefinite"/>
+  <!-- The R is reimagined for a profile and CV rather than the original arrow. -->
+  <g id="r-position">
+    <animateTransform attributeName="transform" type="translate" values="661 154;661 154;50 20;50 20" keyTimes="0;0.235;0.39;1" dur="6.5s" calcMode="spline" keySplines="0 0 1 1;0.22 1 0.36 1;0 0 1 1" repeatCount="indefinite"/>
+    <path id="letter-r" d="M100 100 H270 C390 100 462 174 462 273 C462 349 427 402 363 427 L496 650 H354 L250 458 H220 V650 H100 Z" fill="#0F1219" stroke="#F2EAD1" stroke-width="8" stroke-linejoin="round"/>
+    <path d="M220 202 H270 C318 202 340 229 340 274 C340 320 317 347 270 347 H220 Z" fill="#24499A"/>
+    <!-- A blank resume page rises into the bowl of the letter. -->
+    <g id="resume-page" opacity="0">
+      <animate attributeName="opacity" values="0;0;1;1" keyTimes="0;0.09;0.20;1" dur="6.5s" calcMode="linear" repeatCount="indefinite"/>
+      <animateTransform attributeName="transform" type="translate" values="0 25;0 25;0 0;0 0" keyTimes="0;0.09;0.20;1" dur="6.5s" calcMode="spline" keySplines="0 0 1 1;0.22 1 0.36 1;0 0 1 1" repeatCount="indefinite"/>
+      <rect x="215" y="188" width="155" height="239" fill="#FFF9E9" stroke="#0F1219" stroke-width="6"/>
+      <text x="228" y="214" fill="#0F1219" font-size="19" font-weight="700">RESUME</text>
+      <rect x="229" y="222" width="126" height="5" fill="#E34730"/>
+      <g id="profile-heading" opacity="0">
+        <animate attributeName="opacity" values="0;0;1;1" keyTimes="0;0.14;0.23;1" dur="6.5s" calcMode="linear" repeatCount="indefinite"/>
+        <circle cx="246" cy="253" r="17" fill="#24499A"/>
+        <circle cx="246" cy="248" r="6" fill="#F2EAD1"/>
+        <path d="M234 262 C235 253 257 253 258 262 Z" fill="#F2EAD1"/>
+        <text x="271" y="248" fill="#0F1219" font-size="15" font-weight="700">NAME</text>
+        <rect x="271" y="255" width="78" height="4" fill="#0F1219"/>
+        <rect x="271" y="264" width="58" height="3" fill="#0F1219"/>
+      </g>
+      <g id="resume-sections" opacity="0">
+        <animate attributeName="opacity" values="0;0;1;1" keyTimes="0;0.20;0.29;1" dur="6.5s" calcMode="linear" repeatCount="indefinite"/>
+        <text x="229" y="296" fill="#0F1219" font-size="11" font-weight="700" letter-spacing="0.2">EXPERIENCE</text>
+        <rect x="229" y="302" width="126" height="3" fill="#E34730"/>
+        <path d="M229 315 H354 M229 324 H348 M229 333 H354 M229 342 H344" fill="none" stroke="#0F1219" stroke-width="3"/>
+        <text x="229" y="363" fill="#0F1219" font-size="11" font-weight="700" letter-spacing="0.2">SKILLS</text>
+        <rect x="229" y="370" width="40" height="11" fill="#24499A"/>
+        <rect x="274" y="370" width="37" height="11" fill="#E34730"/>
+        <rect x="316" y="370" width="39" height="11" fill="#24499A"/>
+        <path d="M229 394 H354 M229 403 H340" fill="none" stroke="#0F1219" stroke-width="3"/>
+      </g>
+    </g>
+  </g>
+
+  <g id="mark-to-service" opacity="0">
+    <animate attributeName="opacity" values="0;0;1;1" keyTimes="0;0.33;0.42;1" dur="6.5s" calcMode="linear" repeatCount="indefinite"/>
+    <path d="M590 286 H637 M625 274 L639 286 L625 298" fill="none" stroke="#F2EAD1" stroke-width="6" stroke-linecap="round" stroke-linejoin="round" stroke-dasharray="110" stroke-dashoffset="110">
+      <animate attributeName="stroke-dashoffset" values="110;110;0;0" keyTimes="0;0.33;0.42;1" dur="6.5s" repeatCount="indefinite"/>
+    </path>
+  </g>
+  <g id="service-label" opacity="0">
+    <animate attributeName="opacity" values="0;0;1;1" keyTimes="0;0.32;0.41;1" dur="6.5s" calcMode="linear" repeatCount="indefinite"/>
+    <animateTransform attributeName="transform" type="translate" values="0 17;0 17;0 0;0 0" keyTimes="0;0.32;0.41;1" dur="6.5s" calcMode="spline" keySplines="0 0 1 1;0.22 1 0.36 1;0 0 1 1" repeatCount="indefinite"/>
+    <rect x="670" y="125" width="16" height="16" rx="1" fill="#E34730" stroke="#F2EAD1" stroke-width="2"/>
+    <text x="704" y="141" fill="#F2EAD1" font-size="24" font-weight="700" letter-spacing="3">R / CREATIVE SERVICES</text>
+  </g>
+  <g id="resume-headline" opacity="0">
+    <animate attributeName="opacity" values="0;0;1;1" keyTimes="0;0.34;0.46;1" dur="6.5s" calcMode="linear" repeatCount="indefinite"/>
+    <animateTransform attributeName="transform" type="translate" values="0 25;0 25;0 0;0 0" keyTimes="0;0.34;0.46;1" dur="6.5s" calcMode="spline" keySplines="0 0 1 1;0.22 1 0.36 1;0 0 1 1" repeatCount="indefinite"/>
+    <text x="664" y="280" fill="#F2EAD1" font-size="156" font-weight="700" letter-spacing="-2">RESUME &amp;</text>
+  </g>
+  <g id="cv-headline" opacity="0">
+    <animate attributeName="opacity" values="0;0;1;1" keyTimes="0;0.38;0.50;1" dur="6.5s" calcMode="linear" repeatCount="indefinite"/>
+    <animateTransform attributeName="transform" type="translate" values="0 24;0 24;0 0;0 0" keyTimes="0;0.38;0.50;1" dur="6.5s" calcMode="spline" keySplines="0 0 1 1;0.22 1 0.36 1;0 0 1 1" repeatCount="indefinite"/>
+    <text x="670" y="410" fill="#F2EAD1" font-size="150" font-weight="700" letter-spacing="-1">CV DESIGN</text>
+    <rect x="670" y="444" width="150" height="9" fill="#E34730"/>
+    <rect x="839" y="448" width="995" height="2" fill="#F2EAD1" opacity="0.65"/>
+  </g>
+  <g id="resume-process" opacity="0">
+    <animate attributeName="opacity" values="0;0;1;1" keyTimes="0;0.45;0.57;1" dur="6.5s" calcMode="linear" repeatCount="indefinite"/>
+    <animateTransform attributeName="transform" type="translate" values="0 20;0 20;0 0;0 0" keyTimes="0;0.45;0.57;1" dur="6.5s" calcMode="spline" keySplines="0 0 1 1;0.22 1 0.36 1;0 0 1 1" repeatCount="indefinite"/>
+    <text x="670" y="544" fill="#F2EAD1" font-size="26" font-weight="700" letter-spacing="0.8">01 / CONTENT</text>
+    <path d="M900 534 H948 M938 524 L949 534 L938 544" fill="none" stroke="#F2EAD1" stroke-width="5" stroke-linecap="round" stroke-linejoin="round"/>
+    <text x="976" y="544" fill="#F2EAD1" font-size="26" font-weight="700" letter-spacing="0.8">02 / LAYOUT</text>
+    <path d="M1184 534 H1232 M1222 524 L1233 534 L1222 544" fill="none" stroke="#F2EAD1" stroke-width="5" stroke-linecap="round" stroke-linejoin="round"/>
+    <text x="1260" y="544" fill="#F2EAD1" font-size="26" font-weight="700" letter-spacing="0.8">03 / CV</text>
+  </g>
+  <g id="resume-thought" opacity="0">
+    <animate attributeName="opacity" values="0;0;1;1" keyTimes="0;0.50;0.62;1" dur="6.5s" calcMode="linear" repeatCount="indefinite"/>
+    <animateTransform attributeName="transform" type="translate" values="0 15;0 15;0 0;0 0" keyTimes="0;0.50;0.62;1" dur="6.5s" calcMode="spline" keySplines="0 0 1 1;0.22 1 0.36 1;0 0 1 1" repeatCount="indefinite"/>
+    <text x="670" y="636" fill="#F2EAD1" font-size="23" font-weight="700" letter-spacing="1.2">YOUR EXPERIENCE, CLEARLY PRESENTED.</text>
+  </g>
+  <!-- A small profile-on-page symbol. -->
+  <g id="profile-symbol" opacity="0">
+    <animate attributeName="opacity" values="0;0;1;1" keyTimes="0;0.41;0.53;1" dur="6.5s" calcMode="linear" repeatCount="indefinite"/>
+    <rect x="1747" y="169" width="87" height="87" fill="#0F1219" stroke="#F2EAD1" stroke-width="3"/>
+    <rect x="1763" y="180" width="55" height="65" fill="#F2EAD1"/>
+    <circle cx="1777" cy="196" r="9" fill="#E34730"/>
+    <circle cx="1777" cy="194" r="3.5" fill="#0F1219"/>
+    <path d="M1771 201 C1772 196 1782 196 1783 201 Z" fill="#0F1219"/>
+    <path d="M1790 191 H1811 M1790 198 H1809 M1770 213 H1811 M1770 220 H1807 M1770 227 H1811 M1770 234 H1802" fill="none" stroke="#0F1219" stroke-width="3"/>
+  </g>
+
+  <g id="outputs-heading" opacity="0">
+    <animate attributeName="opacity" values="0;0;1;1" keyTimes="0;0.46;0.57;1" dur="6.5s" calcMode="linear" repeatCount="indefinite"/>
+    <line x1="84" y1="746" x2="1836" y2="746" stroke="#F2EAD1" stroke-width="2" opacity="0.62"/>
+    <rect x="84" y="772" width="14" height="14" fill="#E34730" stroke="#F2EAD1" stroke-width="2"/>
+    <text x="112" y="786" fill="#F2EAD1" font-size="20" font-weight="700" letter-spacing="2.6">DESIGNED FOR THE NEXT OPPORTUNITY</text>
+  </g>
+
+  <!-- 01: a profile-led resume layout. -->
+  <g id="resume-card" opacity="0">
+    <animate attributeName="opacity" values="0;0;1;1" keyTimes="0;0.50;0.62;1" dur="6.5s" calcMode="linear" repeatCount="indefinite"/>
+    <animateTransform attributeName="transform" type="translate" values="0 28;0 28;0 0;0 0" keyTimes="0;0.50;0.62;1" dur="6.5s" calcMode="spline" keySplines="0 0 1 1;0.22 1 0.36 1;0 0 1 1" repeatCount="indefinite"/>
+    <rect x="131" y="821" width="500" height="220" fill="#0F1219"/>
+    <rect x="120" y="810" width="500" height="220" fill="#F2EAD1"/>
+    <text x="144" y="846" fill="#0F1219" font-size="19" font-weight="700" letter-spacing="1.5">01 / RESUME</text>
+    <rect x="145" y="863" width="155" height="141" fill="#0F1219"/>
+    <rect x="170" y="870" width="105" height="127" fill="#FFF9E9"/>
+    <text x="178" y="889" fill="#0F1219" font-size="13" font-weight="700">RESUME</text>
+    <rect x="178" y="895" width="89" height="4" fill="#E34730"/>
+    <circle cx="190" cy="916" r="11" fill="#24499A"/>
+    <circle cx="190" cy="913" r="4" fill="#F2EAD1"/>
+    <path d="M182 922 Q190 913 198 922 Z" fill="#F2EAD1"/>
+    <path d="M207 909 H266 M207 916 H259 M207 923 H266 M178 939 H266 M178 946 H259 M178 953 H266 M178 960 H256 M178 967 H266 M178 974 H260 M178 981 H266" fill="none" stroke="#0F1219" stroke-width="3"/>
+    <text x="327" y="914" fill="#0F1219" font-size="30" font-weight="700">CAREER</text>
+    <text x="327" y="953" fill="#0F1219" font-size="30" font-weight="700">STORY.</text>
+    <rect x="327" y="974" width="110" height="6" fill="#E34730"/>
+  </g>
+
+  <!-- 02: an illustrative CV with separate skills and experience sections. -->
+  <g id="cv-card" opacity="0">
+    <animate attributeName="opacity" values="0;0;1;1" keyTimes="0;0.55;0.67;1" dur="6.5s" calcMode="linear" repeatCount="indefinite"/>
+    <animateTransform attributeName="transform" type="translate" values="0 28;0 28;0 0;0 0" keyTimes="0;0.55;0.67;1" dur="6.5s" calcMode="spline" keySplines="0 0 1 1;0.22 1 0.36 1;0 0 1 1" repeatCount="indefinite"/>
+    <rect x="721" y="821" width="500" height="220" fill="#F2EAD1"/>
+    <rect x="710" y="810" width="500" height="220" fill="#0F1219"/>
+    <text x="734" y="846" fill="#F2EAD1" font-size="19" font-weight="700" letter-spacing="1.5">02 / CV</text>
+    <rect x="735" y="863" width="155" height="141" fill="#24499A" stroke="#F2EAD1" stroke-width="3"/>
+    <rect x="761" y="870" width="102" height="127" fill="#FFF9E9"/>
+    <text x="769" y="889" fill="#0F1219" font-size="15" font-weight="700">CV</text>
+    <rect x="769" y="896" width="86" height="4" fill="#E34730"/>
+    <circle cx="781" cy="915" r="10" fill="#24499A"/>
+    <circle cx="781" cy="912" r="3.5" fill="#F2EAD1"/>
+    <path d="M774 921 Q781 914 788 921 Z" fill="#F2EAD1"/>
+    <path d="M798 909 H855 M798 916 H851 M798 923 H855 M769 937 H855 M769 944 H850 M769 951 H855 M769 958 H849 M769 965 H855 M769 972 H849 M769 979 H855" fill="none" stroke="#0F1219" stroke-width="3"/>
+    <text x="920" y="914" fill="#F2EAD1" font-size="29" font-weight="700">SKILLS &amp;</text>
+    <text x="920" y="953" fill="#F2EAD1" font-size="29" font-weight="700">EXPERIENCE.</text>
+    <rect x="920" y="974" width="110" height="6" fill="#E34730"/>
+  </g>
+
+  <!-- 03: two generic document layout variations. -->
+  <g id="layout-card" opacity="0">
+    <animate attributeName="opacity" values="0;0;1;1" keyTimes="0;0.60;0.72;1" dur="6.5s" calcMode="linear" repeatCount="indefinite"/>
+    <animateTransform attributeName="transform" type="translate" values="0 28;0 28;0 0;0 0" keyTimes="0;0.60;0.72;1" dur="6.5s" calcMode="spline" keySplines="0 0 1 1;0.22 1 0.36 1;0 0 1 1" repeatCount="indefinite"/>
+    <rect x="1311" y="821" width="500" height="220" fill="#0F1219"/>
+    <rect x="1300" y="810" width="500" height="220" fill="#E34730"/>
+    <text x="1324" y="846" fill="#0F1219" font-size="19" font-weight="700" letter-spacing="1.5">03 / LAYOUT</text>
+    <rect x="1325" y="863" width="155" height="141" fill="#F2EAD1"/>
+    <rect x="1339" y="875" width="71" height="111" fill="#0F1219"/>
+    <rect x="1345" y="881" width="59" height="99" fill="#FFF9E9"/>
+    <circle cx="1358" cy="896" r="8" fill="#24499A"/>
+    <circle cx="1358" cy="894" r="3" fill="#F2EAD1"/>
+    <path d="M1352 902 Q1358 896 1364 902 Z" fill="#F2EAD1"/>
+    <path d="M1370 891 H1398 M1370 898 H1395 M1351 913 H1398 M1351 921 H1395 M1351 929 H1398 M1351 937 H1396 M1351 945 H1398 M1351 953 H1395" fill="none" stroke="#0F1219" stroke-width="2.5"/>
+    <rect x="1388" y="885" width="72" height="111" fill="#0F1219"/>
+    <rect x="1394" y="891" width="60" height="99" fill="#FFF9E9"/>
+    <rect x="1400" y="898" width="48" height="7" fill="#E34730"/>
+    <circle cx="1410" cy="918" r="8" fill="#24499A"/>
+    <circle cx="1410" cy="916" r="3" fill="#F2EAD1"/>
+    <path d="M1404 924 Q1410 918 1416 924 Z" fill="#F2EAD1"/>
+    <path d="M1423 914 H1448 M1423 921 H1445 M1400 934 H1448 M1400 942 H1444 M1400 950 H1448 M1400 958 H1444 M1400 966 H1448 M1400 974 H1443" fill="none" stroke="#0F1219" stroke-width="2.5"/>
+    <text x="1514" y="914" fill="#0F1219" font-size="29" font-weight="700">CLEAN</text>
+    <text x="1514" y="953" fill="#0F1219" font-size="29" font-weight="700">LAYOUTS.</text>
+    <rect x="1514" y="974" width="110" height="6" fill="#F2EAD1"/>
+  </g>
+</g>
+</svg>

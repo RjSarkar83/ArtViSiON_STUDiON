@@ -1,0 +1,235 @@
+<?xml version='1.0' encoding='utf-8'?>
+<svg xmlns="http://www.w3.org/2000/svg" width="1920" height="1080" viewBox="0 0 1920 1080" role="img" aria-labelledby="title description">
+<title id="title">N for Neon and LED Sign Design</title>
+<desc id="description">A 6.5-second looping animation. An N on a sign panel lights up as a neon tube is drawn and a column of LED bulbs turns on in sequence. It introduces neon and LED sign design with illustrative neon, LED display and store signage examples.</desc>
+<metadata>1920 by 1080; 16:9; 6.5-second loop; reimagines the teal, cream, coral and black palette of 14_N_naming.png; no external assets. Sign concepts are illustrative.</metadata>
+<defs>
+<style>
+@font-face { font-family: NeonSans; src: url(data:font/woff;base64,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) format('woff'); font-style: normal; font-weight: 700; }
+text { font-family: NeonSans, Arial, sans-serif; }
+</style>
+<filter id="light-blur" x="-70%" y="-70%" width="240%" height="240%"><feGaussianBlur stdDeviation="8" /></filter>
+</defs>
+<rect id="background" width="1920" height="1080" fill="#075762" />
+<g id="animation" opacity="1">
+  <g id="n-position" transform="translate(50, 20)">
+    <rect x="85" y="104" width="435" height="532" rx="12" fill="#071518" stroke="#F4EAD1" stroke-width="5" />
+    <rect x="98" y="117" width="409" height="506" rx="5" fill="#062B31" />
+    <circle cx="105" cy="124" r="4" fill="#F94A3D" /><circle cx="500" cy="124" r="4" fill="#F94A3D" />
+    <circle cx="105" cy="616" r="4" fill="#F94A3D" /><circle cx="500" cy="616" r="4" fill="#F94A3D" />
+    <text x="121" y="146" fill="#F4EAD1" opacity="0.8" font-size="14" font-weight="700" letter-spacing="2">NEON / LED</text>
+    
+    <path d="M146 570 V184 L440 570 V184" fill="none" stroke="#143F43" stroke-width="43" stroke-linecap="round" stroke-linejoin="round" />
+    <path d="M146 570 V184 L440 570" fill="none" stroke="#643830" stroke-width="19" stroke-linecap="round" stroke-linejoin="round" />
+    
+    <path d="M146 570 V184 L440 570" fill="none" stroke="#F94A3D" stroke-width="42" stroke-linecap="round" stroke-linejoin="round" stroke-dasharray="900" stroke-dashoffset="0" opacity="0.65" filter="url(#light-blur)" />
+    <path d="M146 570 V184 L440 570" fill="none" stroke="#F94A3D" stroke-width="20" stroke-linecap="round" stroke-linejoin="round" stroke-dasharray="900" stroke-dashoffset="0" />
+    <path d="M146 570 V184 L440 570" fill="none" stroke="#FFF7E5" stroke-width="7" stroke-linecap="round" stroke-linejoin="round" stroke-dasharray="900" stroke-dashoffset="0" />
+    
+    <circle cx="440" cy="570.0" r="10" fill="#062B31" stroke="#335A5D" stroke-width="3" />
+<circle cx="440" cy="542.5" r="10" fill="#062B31" stroke="#335A5D" stroke-width="3" />
+<circle cx="440" cy="515.0" r="10" fill="#062B31" stroke="#335A5D" stroke-width="3" />
+<circle cx="440" cy="487.5" r="10" fill="#062B31" stroke="#335A5D" stroke-width="3" />
+<circle cx="440" cy="460.0" r="10" fill="#062B31" stroke="#335A5D" stroke-width="3" />
+<circle cx="440" cy="432.5" r="10" fill="#062B31" stroke="#335A5D" stroke-width="3" />
+<circle cx="440" cy="405.0" r="10" fill="#062B31" stroke="#335A5D" stroke-width="3" />
+<circle cx="440" cy="377.5" r="10" fill="#062B31" stroke="#335A5D" stroke-width="3" />
+<circle cx="440" cy="350.0" r="10" fill="#062B31" stroke="#335A5D" stroke-width="3" />
+<circle cx="440" cy="322.5" r="10" fill="#062B31" stroke="#335A5D" stroke-width="3" />
+<circle cx="440" cy="295.0" r="10" fill="#062B31" stroke="#335A5D" stroke-width="3" />
+<circle cx="440" cy="267.5" r="10" fill="#062B31" stroke="#335A5D" stroke-width="3" />
+<circle cx="440" cy="240.0" r="10" fill="#062B31" stroke="#335A5D" stroke-width="3" />
+<circle cx="440" cy="212.5" r="10" fill="#062B31" stroke="#335A5D" stroke-width="3" />
+<circle cx="440" cy="185.0" r="10" fill="#062B31" stroke="#335A5D" stroke-width="3" />
+<g opacity="1"><circle cx="440" cy="570.0" r="14" fill="#F94A3D" opacity="0.48" filter="url(#light-blur)" />
+          <circle cx="440" cy="570.0" r="10" fill="#F94A3D" />
+          <circle cx="440" cy="570.0" r="5.5" fill="#FFF7E5" />
+        </g>
+<g opacity="1"><circle cx="440" cy="542.5" r="14" fill="#F94A3D" opacity="0.48" filter="url(#light-blur)" />
+          <circle cx="440" cy="542.5" r="10" fill="#F94A3D" />
+          <circle cx="440" cy="542.5" r="5.5" fill="#FFF7E5" />
+        </g>
+<g opacity="1"><circle cx="440" cy="515.0" r="14" fill="#F94A3D" opacity="0.48" filter="url(#light-blur)" />
+          <circle cx="440" cy="515.0" r="10" fill="#F94A3D" />
+          <circle cx="440" cy="515.0" r="5.5" fill="#FFF7E5" />
+        </g>
+<g opacity="1"><circle cx="440" cy="487.5" r="14" fill="#F94A3D" opacity="0.48" filter="url(#light-blur)" />
+          <circle cx="440" cy="487.5" r="10" fill="#F94A3D" />
+          <circle cx="440" cy="487.5" r="5.5" fill="#FFF7E5" />
+        </g>
+<g opacity="1"><circle cx="440" cy="460.0" r="14" fill="#F94A3D" opacity="0.48" filter="url(#light-blur)" />
+          <circle cx="440" cy="460.0" r="10" fill="#F94A3D" />
+          <circle cx="440" cy="460.0" r="5.5" fill="#FFF7E5" />
+        </g>
+<g opacity="1"><circle cx="440" cy="432.5" r="14" fill="#F94A3D" opacity="0.48" filter="url(#light-blur)" />
+          <circle cx="440" cy="432.5" r="10" fill="#F94A3D" />
+          <circle cx="440" cy="432.5" r="5.5" fill="#FFF7E5" />
+        </g>
+<g opacity="1"><circle cx="440" cy="405.0" r="14" fill="#F94A3D" opacity="0.48" filter="url(#light-blur)" />
+          <circle cx="440" cy="405.0" r="10" fill="#F94A3D" />
+          <circle cx="440" cy="405.0" r="5.5" fill="#FFF7E5" />
+        </g>
+<g opacity="1"><circle cx="440" cy="377.5" r="14" fill="#F94A3D" opacity="0.48" filter="url(#light-blur)" />
+          <circle cx="440" cy="377.5" r="10" fill="#F94A3D" />
+          <circle cx="440" cy="377.5" r="5.5" fill="#FFF7E5" />
+        </g>
+<g opacity="1"><circle cx="440" cy="350.0" r="14" fill="#F94A3D" opacity="0.48" filter="url(#light-blur)" />
+          <circle cx="440" cy="350.0" r="10" fill="#F94A3D" />
+          <circle cx="440" cy="350.0" r="5.5" fill="#FFF7E5" />
+        </g>
+<g opacity="1"><circle cx="440" cy="322.5" r="14" fill="#F94A3D" opacity="0.48" filter="url(#light-blur)" />
+          <circle cx="440" cy="322.5" r="10" fill="#F94A3D" />
+          <circle cx="440" cy="322.5" r="5.5" fill="#FFF7E5" />
+        </g>
+<g opacity="1"><circle cx="440" cy="295.0" r="14" fill="#F94A3D" opacity="0.48" filter="url(#light-blur)" />
+          <circle cx="440" cy="295.0" r="10" fill="#F94A3D" />
+          <circle cx="440" cy="295.0" r="5.5" fill="#FFF7E5" />
+        </g>
+<g opacity="1"><circle cx="440" cy="267.5" r="14" fill="#F94A3D" opacity="0.48" filter="url(#light-blur)" />
+          <circle cx="440" cy="267.5" r="10" fill="#F94A3D" />
+          <circle cx="440" cy="267.5" r="5.5" fill="#FFF7E5" />
+        </g>
+<g opacity="1"><circle cx="440" cy="240.0" r="14" fill="#F94A3D" opacity="0.48" filter="url(#light-blur)" />
+          <circle cx="440" cy="240.0" r="10" fill="#F94A3D" />
+          <circle cx="440" cy="240.0" r="5.5" fill="#FFF7E5" />
+        </g>
+<g opacity="1"><circle cx="440" cy="212.5" r="14" fill="#F94A3D" opacity="0.48" filter="url(#light-blur)" />
+          <circle cx="440" cy="212.5" r="10" fill="#F94A3D" />
+          <circle cx="440" cy="212.5" r="5.5" fill="#FFF7E5" />
+        </g>
+<g opacity="1"><circle cx="440" cy="185.0" r="14" fill="#F94A3D" opacity="0.48" filter="url(#light-blur)" />
+          <circle cx="440" cy="185.0" r="10" fill="#F94A3D" />
+          <circle cx="440" cy="185.0" r="5.5" fill="#FFF7E5" />
+        </g>
+  </g>
+
+  <g id="mark-to-service" opacity="1">
+    <path d="M590 286 H637 M625 274 L639 286 L625 298" fill="none" stroke="#F4EAD1" stroke-width="6" stroke-linecap="round" stroke-linejoin="round" stroke-dasharray="110" stroke-dashoffset="0">
+      </path>
+  </g>
+  <g id="service-label" opacity="1" transform="translate(0, 0)">
+    <rect x="670" y="125" width="16" height="16" rx="1" fill="#F94A3D" stroke="#F4EAD1" stroke-width="2" />
+    <text x="704" y="141" fill="#F4EAD1" font-size="24" font-weight="700" letter-spacing="3">N / CREATIVE SERVICES</text>
+  </g>
+  <g id="neon-headline" opacity="1" transform="translate(0, 0)">
+    <text x="664" y="284" fill="#F4EAD1" font-size="152" font-weight="700" letter-spacing="-2">NEON &amp; LED</text>
+  </g>
+  <g id="sign-headline" opacity="1" transform="translate(0, 0)">
+    <text x="670" y="410" fill="#F4EAD1" font-size="140" font-weight="700" letter-spacing="-1">SIGN DESIGN</text>
+    <rect x="670" y="444" width="150" height="9" fill="#F94A3D" />
+    <rect x="839" y="448" width="995" height="2" fill="#F4EAD1" opacity="0.64" />
+  </g>
+  <g id="sign-process" opacity="1" transform="translate(0, 0)">
+    <text x="670" y="544" fill="#F4EAD1" font-size="26" font-weight="700" letter-spacing="0.8">01 / CONCEPT</text>
+    <path d="M905 534 H953 M943 524 L954 534 L943 544" fill="none" stroke="#F4EAD1" stroke-width="5" stroke-linecap="round" stroke-linejoin="round" />
+    <text x="982" y="544" fill="#F4EAD1" font-size="26" font-weight="700" letter-spacing="0.8">02 / LIGHT</text>
+    <path d="M1172 534 H1220 M1210 524 L1221 534 L1210 544" fill="none" stroke="#F4EAD1" stroke-width="5" stroke-linecap="round" stroke-linejoin="round" />
+    <text x="1249" y="544" fill="#F4EAD1" font-size="26" font-weight="700" letter-spacing="0.8">03 / SIGN</text>
+  </g>
+  <g id="sign-thought" opacity="1" transform="translate(0, 0)">
+    <text x="670" y="636" fill="#F4EAD1" font-size="23" font-weight="700" letter-spacing="1.2">LIGHT UP THE BRAND. STAND OUT AFTER DARK.</text>
+  </g>
+  
+  <g id="sign-symbol" opacity="1">
+    <rect x="1747" y="170" width="87" height="87" fill="#071518" stroke="#F4EAD1" stroke-width="3" />
+    <rect x="1760" y="187" width="61" height="50" rx="8" fill="none" stroke="#F94A3D" stroke-width="5" />
+    <path d="M1770 226 V198 L1809 226 V198" fill="none" stroke="#F4EAD1" stroke-width="5" stroke-linecap="round" stroke-linejoin="round" />
+  </g>
+
+  <g id="outputs-heading" opacity="1">
+    <line x1="84" y1="746" x2="1836" y2="746" stroke="#F4EAD1" stroke-width="2" opacity="0.62" />
+    <rect x="84" y="772" width="14" height="14" fill="#F94A3D" stroke="#F4EAD1" stroke-width="2" />
+    <text x="112" y="786" fill="#F4EAD1" font-size="20" font-weight="700" letter-spacing="2.6">SIGNS MADE TO SHINE</text>
+  </g>
+
+  
+  <g id="neon-card" opacity="1" transform="translate(0, 0)">
+    <rect x="131" y="821" width="500" height="220" fill="#071518" />
+    <rect x="120" y="810" width="500" height="220" fill="#F4EAD1" />
+    <text x="144" y="846" fill="#071518" font-size="19" font-weight="700" letter-spacing="1.5">01 / NEON</text>
+    <rect x="145" y="863" width="155" height="141" fill="#071518" />
+    <rect x="157" y="885" width="131" height="91" rx="20" fill="none" stroke="#F94A3D" stroke-width="13" opacity="0.46" filter="url(#light-blur)" />
+    <rect x="157" y="885" width="131" height="91" rx="20" fill="none" stroke="#F94A3D" stroke-width="6" />
+    <text x="222.5" y="941" text-anchor="middle" fill="#FFF7E5" font-size="29" font-weight="700">OPEN</text>
+    <text x="327" y="914" fill="#071518" font-size="30" font-weight="700">GLOWING</text>
+    <text x="327" y="953" fill="#071518" font-size="30" font-weight="700">TUBES.</text>
+    <rect x="327" y="974" width="110" height="6" fill="#F94A3D" />
+  </g>
+
+  
+  <g id="led-card" opacity="1" transform="translate(0, 0)">
+    <rect x="721" y="821" width="500" height="220" fill="#F4EAD1" />
+    <rect x="710" y="810" width="500" height="220" fill="#071518" />
+    <text x="734" y="846" fill="#F4EAD1" font-size="19" font-weight="700" letter-spacing="1.5">02 / LED</text>
+    <rect x="735" y="863" width="155" height="141" fill="#062B31" stroke="#F4EAD1" stroke-width="3" />
+    <circle cx="752.0" cy="892.0" r="3.4" fill="#FFF7E5" />
+<circle cx="752.0" cy="902.0" r="3.4" fill="#FFF7E5" />
+<circle cx="752.0" cy="912.0" r="3.4" fill="#FFF7E5" />
+<circle cx="752.0" cy="922.0" r="3.4" fill="#FFF7E5" />
+<circle cx="752.0" cy="932.0" r="3.4" fill="#FFF7E5" />
+<circle cx="752.0" cy="942.0" r="3.4" fill="#FFF7E5" />
+<circle cx="752.0" cy="952.0" r="3.4" fill="#FFF7E5" />
+<circle cx="759.5" cy="952.0" r="3.4" fill="#FFF7E5" />
+<circle cx="767.0" cy="952.0" r="3.4" fill="#FFF7E5" />
+<circle cx="774.5" cy="952.0" r="3.4" fill="#FFF7E5" />
+<circle cx="782.0" cy="952.0" r="3.4" fill="#FFF7E5" />
+<circle cx="797.0" cy="892.0" r="3.4" fill="#FFF7E5" />
+<circle cx="804.5" cy="892.0" r="3.4" fill="#FFF7E5" />
+<circle cx="812.0" cy="892.0" r="3.4" fill="#FFF7E5" />
+<circle cx="819.5" cy="892.0" r="3.4" fill="#FFF7E5" />
+<circle cx="827.0" cy="892.0" r="3.4" fill="#FFF7E5" />
+<circle cx="797.0" cy="902.0" r="3.4" fill="#FFF7E5" />
+<circle cx="797.0" cy="912.0" r="3.4" fill="#FFF7E5" />
+<circle cx="797.0" cy="922.0" r="3.4" fill="#FFF7E5" />
+<circle cx="804.5" cy="922.0" r="3.4" fill="#FFF7E5" />
+<circle cx="812.0" cy="922.0" r="3.4" fill="#FFF7E5" />
+<circle cx="819.5" cy="922.0" r="3.4" fill="#FFF7E5" />
+<circle cx="797.0" cy="932.0" r="3.4" fill="#FFF7E5" />
+<circle cx="797.0" cy="942.0" r="3.4" fill="#FFF7E5" />
+<circle cx="797.0" cy="952.0" r="3.4" fill="#FFF7E5" />
+<circle cx="804.5" cy="952.0" r="3.4" fill="#FFF7E5" />
+<circle cx="812.0" cy="952.0" r="3.4" fill="#FFF7E5" />
+<circle cx="819.5" cy="952.0" r="3.4" fill="#FFF7E5" />
+<circle cx="827.0" cy="952.0" r="3.4" fill="#FFF7E5" />
+<circle cx="842.0" cy="892.0" r="3.4" fill="#FFF7E5" />
+<circle cx="849.5" cy="892.0" r="3.4" fill="#FFF7E5" />
+<circle cx="857.0" cy="892.0" r="3.4" fill="#FFF7E5" />
+<circle cx="864.5" cy="892.0" r="3.4" fill="#FFF7E5" />
+<circle cx="842.0" cy="902.0" r="3.4" fill="#FFF7E5" />
+<circle cx="872.0" cy="902.0" r="3.4" fill="#FFF7E5" />
+<circle cx="842.0" cy="912.0" r="3.4" fill="#FFF7E5" />
+<circle cx="872.0" cy="912.0" r="3.4" fill="#FFF7E5" />
+<circle cx="842.0" cy="922.0" r="3.4" fill="#FFF7E5" />
+<circle cx="872.0" cy="922.0" r="3.4" fill="#FFF7E5" />
+<circle cx="842.0" cy="932.0" r="3.4" fill="#FFF7E5" />
+<circle cx="872.0" cy="932.0" r="3.4" fill="#FFF7E5" />
+<circle cx="842.0" cy="942.0" r="3.4" fill="#FFF7E5" />
+<circle cx="872.0" cy="942.0" r="3.4" fill="#FFF7E5" />
+<circle cx="842.0" cy="952.0" r="3.4" fill="#FFF7E5" />
+<circle cx="849.5" cy="952.0" r="3.4" fill="#FFF7E5" />
+<circle cx="857.0" cy="952.0" r="3.4" fill="#FFF7E5" />
+<circle cx="864.5" cy="952.0" r="3.4" fill="#FFF7E5" />
+    <path d="M756 977 H870" stroke="#F94A3D" stroke-width="5" />
+    <text x="920" y="914" fill="#F4EAD1" font-size="29" font-weight="700">LED</text>
+    <text x="920" y="953" fill="#F4EAD1" font-size="29" font-weight="700">DISPLAYS.</text>
+    <rect x="920" y="974" width="110" height="6" fill="#F94A3D" />
+  </g>
+
+  
+  <g id="signage-card" opacity="1" transform="translate(0, 0)">
+    <rect x="1311" y="821" width="500" height="220" fill="#071518" />
+    <rect x="1300" y="810" width="500" height="220" fill="#F94A3D" />
+    <text x="1324" y="846" fill="#071518" font-size="19" font-weight="700" letter-spacing="1.5">03 / SIGNAGE</text>
+    <rect x="1325" y="863" width="155" height="141" fill="#F4EAD1" />
+    <path d="M1352 878 V896 M1453 878 V896" fill="none" stroke="#071518" stroke-width="5" />
+    <rect x="1337" y="895" width="131" height="70" rx="3" fill="#071518" />
+    <rect x="1345" y="903" width="115" height="54" rx="3" fill="#062B31" stroke="#F94A3D" stroke-width="3" />
+    <text x="1402.5" y="937" text-anchor="middle" fill="#F4EAD1" font-size="22" font-weight="700">BRAND</text>
+    <path d="M1345 979 H1460" stroke="#071518" stroke-width="5" />
+    <circle cx="1357" cy="989" r="3" fill="#F94A3D" /><circle cx="1372" cy="989" r="3" fill="#F94A3D" /><circle cx="1387" cy="989" r="3" fill="#F94A3D" /><circle cx="1402" cy="989" r="3" fill="#F94A3D" /><circle cx="1417" cy="989" r="3" fill="#F94A3D" /><circle cx="1432" cy="989" r="3" fill="#F94A3D" /><circle cx="1447" cy="989" r="3" fill="#F94A3D" />
+    <text x="1514" y="914" fill="#071518" font-size="29" font-weight="700">STORE</text>
+    <text x="1514" y="953" fill="#071518" font-size="29" font-weight="700">SIGNAGE.</text>
+    <rect x="1514" y="974" width="110" height="6" fill="#F4EAD1" />
+  </g>
+</g>
+</svg>
